@@ -1,6 +1,6 @@
 package main
 
-import "C"
+
 import (
 	_ "image/jpeg"
 	"github.com/widuu/goini"
